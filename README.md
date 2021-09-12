@@ -1,2 +1,2 @@
 # web-news-about-technology
-sitio sobre noticias de tecnologia, para practicar HTML y CSS 
+site about technology news, to practice HTML and CSS 
